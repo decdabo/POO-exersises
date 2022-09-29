@@ -1,0 +1,5 @@
+Yes, it is possible and should not throw any type of error.
+So, how can we know which main method is exectued?? Easy, the main method which be executed will be the main method of the class which be called on the terminal. 
+
+Example:
+-If you want to call the class "Example" main method, you should to call the class Example file in the terminal (Try it in this SRC folder!).
